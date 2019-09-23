@@ -1,0 +1,8 @@
+baseURL = "https://ajitem.com/"
+languageCode = "en-us"
+title = "Ajitem's Personal Web Space"
+theme = "ananke"
+pygmentsUseClasses="true"
+pygmentsStyle="dracula"
+[params]
+	custom_css= ["css/custom.css", "css/syntax.css"]
